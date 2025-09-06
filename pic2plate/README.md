@@ -76,31 +76,3 @@ FridgeFusion is the ultimate solution for anyone looking to make the most of the
 4. 👨‍🍳 Generate personalized recipes from your ingredients
 5. 💾 Download recipes as PDF or view in-app
 
-## 📸 App Screenshots
-
-![Search Results](https://github.com/SauravSrivastav/fridgefusion-st/blob/main/data/1.png)
-
-## 🤝 Contributing
-
-We welcome contributions! 🎉 To improve FridgeFusion:
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-For major changes, please open an issue first to discuss your ideas.
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 📞 Contact Us
-
-Have questions or suggestions? Reach out to us:
-
-- 📧 Email: [Sauravsrivastav2205@gmail.com](mailto:Sauravsrivastav2205@gmail.com)
-- 💼 LinkedIn: [in/sauravsrivastav2205](https://www.linkedin.com/in/sauravsrivastav2205)
-- 🐙 GitHub: [https://github.com/SauravSrivastav](https://github.com/SauravSrivastav)
-
----
