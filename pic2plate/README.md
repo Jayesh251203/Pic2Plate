@@ -1,4 +1,4 @@
-# FridgeFusion 🍳🥗 - Your Smart Kitchen Assistant
+# Pic2Plate 🍳🥗 - Your Smart Kitchen Assistant
 
 **FridgeFusion** is an innovative AI-powered app that turns your fridge contents into delicious recipes! 🚀 Say goodbye to food waste and hello to creative cooking with personalized recipe suggestions tailored to your available ingredients and dietary preferences.
 
